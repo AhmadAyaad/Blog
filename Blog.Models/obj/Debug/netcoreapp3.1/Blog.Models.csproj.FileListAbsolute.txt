@@ -1,0 +1,9 @@
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.Models\bin\Debug\netcoreapp3.1\Blog.Models.deps.json
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.Models\bin\Debug\netcoreapp3.1\Blog.Models.dll
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.Models\bin\Debug\netcoreapp3.1\Blog.Models.pdb
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.Models\obj\Debug\netcoreapp3.1\Blog.Models.csprojAssemblyReference.cache
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.Models\obj\Debug\netcoreapp3.1\Blog.Models.AssemblyInfoInputs.cache
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.Models\obj\Debug\netcoreapp3.1\Blog.Models.AssemblyInfo.cs
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.Models\obj\Debug\netcoreapp3.1\Blog.Models.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.Models\obj\Debug\netcoreapp3.1\Blog.Models.dll
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.Models\obj\Debug\netcoreapp3.1\Blog.Models.pdb

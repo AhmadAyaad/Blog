@@ -1,0 +1,15 @@
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.Models.dll
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.csprojAssemblyReference.cache
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.AssemblyInfoInputs.cache
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.AssemblyInfo.cs
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.deps.json
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.runtimeconfig.json
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.runtimeconfig.dev.json
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.dll
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.pdb
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.Models.pdb
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.csproj.CopyComplete
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.dll
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.pdb
+C:\Users\ahmed.ayaad\source\repos\Blog.API\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.genruntimeconfig.cache
